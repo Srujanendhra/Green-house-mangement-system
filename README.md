@@ -29,6 +29,9 @@ The complete connection to the relays is not shown as I assume you know how to c
 
 ![Greenhouse circuit_page-0001](https://github.com/user-attachments/assets/3a8c8cea-b68f-44d2-b976-9861a01f1a8e)
 
+## Key Learning for me:
+When using external power supplies to run your components always connect the grounds of your external power supply and your microcontroller to make a common reference ground.
+
 
     
 

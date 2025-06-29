@@ -11,7 +11,10 @@ The project has a very simple a nd easy to use Interface which has busttons and 
 - 6 X Relays
 - 2 x IRF520 (its a MOSFET used for controlling the speed  of the fan)
 
-  The **Cooler** I used is a custom made one which uses evaporative cooling like the one with grass pads, a fan and  a pump.
+  The **Cooler** I used is a custom made one which uses evaporative cooling like the one with grass pads, a fan and  a pump as shown below.
+  ![Cooler](https://github.com/user-attachments/assets/61f89217-faef-4983-a4f9-8d1725cdc38e)
+
+
   The  **humidifier** is used to increase the humidity, if you are using a bigger system you can go with a misting system.
   The **pump** is used to water the plants.
 
@@ -22,6 +25,10 @@ The project has a very simple a nd easy to use Interface which has busttons and 
   maintained automatically (the temperature and humidity are maintained below the given thresholds).
 
 ## Circuit Diagram:
+The complete connection to the relays is not shown as I assume you know how to connect a relay.
+
+![Greenhouse circuit_page-0001](https://github.com/user-attachments/assets/3a8c8cea-b68f-44d2-b976-9861a01f1a8e)
+
 
     
 
